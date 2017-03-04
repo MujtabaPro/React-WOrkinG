@@ -1,0 +1,15 @@
+.head {
+    color: red;
+    font-family: monospace;
+    font-size: 50px;
+    text-align: center;
+    text-shadow: 2px 2px 0px black;
+}
+
+.head1 {
+    color: yellow;
+    font-family: monospace;
+    font-size: 50px;
+    text-align: center;
+    text-shadow: 2px 2px 0px black;
+}
